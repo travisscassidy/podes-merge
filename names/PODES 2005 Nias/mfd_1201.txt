@@ -1,0 +1,456 @@
+12010600012HILIMBOWO                     
+12010600022HILIBADALU                    
+12010600032FATODANO                      
+12010600042FAHANDRONA                    
+12010600152TETE GOENAAI                  
+12010600162LAOWO HILIMBARUZO             
+12010600172HILILAWAE                     
+12010600182TUHEWAEBU                     
+12010600192ONODALINGA                    
+12010600202HOLI                          
+12010600212SISOBAHILI ULUGAWO            
+12010600222SIFAOROASIULUGAWO             
+12010600232SISOBAHILI IRAONOHURA         
+12010600242HILIMOASIO                    
+12010600252OLADANO                       
+12010600262AHEDANO                       
+12010600272HILINAA TAFUO                 
+12010600282HILIONOZEGA                   
+12010600292MONDRALI                      
+12010600362AWONI LAUSO                   
+12010600372BOBOZIOLI LOLOANAA            
+12010600382TETEHOSI                      
+12010600392SAIWAHILI                     
+12010600402MALIWAA                       
+12010600412BIOUTI                        
+12010600422BOZIHONA                      
+1201061000 BAWOLATO                      
+12010610012SIOFABANUA                    
+12010610022SIFOARASI ULUHOU              
+12010610032GAZAMANU                      
+12010610042HILIGANOITA                   
+12010610052SISARAHILI BAWOLATO           
+12010610062DAHANA                        
+12010610072HILIHORU                      
+12010610082HILIALAWA                     
+12010610092HILIWAROKHA                   
+12010610102HILIFAOSI                     
+12010610112SITOLUBANUA                   
+12010610122ORAHILI                       
+12010610132SIOFAEWALI                    
+12010610142SOHOYA                        
+12010610152TAGAULE                       
+12010610162BOTOHAENGA                    
+1201070000 GIDO                          
+12010700012ORAHILI SOMOLOMOLO            
+12010700022HILIWETO SOMOLOMOLO           
+12010700032LAWA-LAWA LUO                 
+12010700042TUHEMBUASI                    
+12010700052HILIBADALU                    
+12010700062HILIOTALUA                    
+12010700072SIHAREO SOGAEADU              
+12010700082AKHELAUME                     
+12010700092SAETAGARAMBA                  
+12010700102LAURI                         
+12010700112SISARAHILI SOGEADU            
+12010700122TULUMBAHO                     
+12010700132SOGAEADU                      
+12010700142WEA-WEA                       
+12010700152BARUZO                        
+12010700162HILISEBUA                     
+12010700172SOMI                          
+12010700182SIRETE                        
+12010700192HILIWETO GIDO                 
+12010700202LOLOANAA GIDO                 
+12010700212HILIMBANA                     
+12010700222SISOBAHILI                    
+12010700232LAHEMO                        
+12010700242LADEA                         
+12010700252LOLOANAA IDANOI               
+12010700262HILIWETO IDANOI               
+12010700272UMBU                          
+12010700282SAEWE                         
+12010700292LOLOZASAI                     
+12010700302LASARA IDANOI                 
+12010700312BINAKA                        
+12010700322IDANOTAE                      
+12010700332FOWA                          
+12010700342TETEHOSI I                    
+12010700352TETEHOSI II                   
+12010700362SIWALUBANUA I                 
+12010700372AWAAI                         
+12010700382LEWUOGURU IDANOI              
+12010700392FADORO                        
+12010700402HILIHAMBAWA                   
+12010700412HELEFANIKHA                   
+12010700422BAWODESOLO                    
+12010700432SIFALAETE                     
+12010700442HILIMBAWO DESOLO              
+12010700452DAHANA                        
+12010700462TUHEGEO I                     
+12010700472SIMANAERE                     
+12010700482HUMENE                        
+12010700492SIWALUBANUA II                
+1201080000 LOLOFITU MOI                  
+12010800012SISOBAWINO II                 
+12010800022DURIA                         
+12010800032BALODANO                      
+12010800042LEWUAGURU II                  
+12010800052SISOBAWINO I                  
+12010800062IODANO                        
+12010800072H U N O                       
+12010800082SISARATANDRAWA                
+12010800092SOMOLO-MOLO                   
+12010800102LEWUOGURU I                   
+12010800112SIFAOROASI                    
+12010800122SIHAERO III                   
+12010800132LEWUOMBANUA                   
+12010800142SISARAHILI MA'U               
+12010800152LASARA SIWALU BANUA           
+12010800162AMBUKHA                       
+12010800172HILIMBOWO MAU                 
+12010800182HILIMBUASI                    
+12010800192LOLOFITU                      
+12010800202HILIUSO                       
+12010800212W A N G O                     
+12010800222TUHEMBERUA                    
+12010800232LOLO FAOSO                    
+12010800242ATUALUO                       
+12010800252LEWA - LEWA                   
+12010800262DEKHA                         
+12010800272HILIMBOWO IDANOI              
+12010800282ORAHILI IDANOI                
+12010800292ONOMBONGI                     
+12010800302AWELA                         
+12010800312EHOSAKHOZI                    
+12010800322TUHEGEO II                    
+12010800332SAMASI                        
+12010800342OMBOLATA                      
+12010800352ONOWAEMBO                     
+1201110000 SIROMBU                       
+12011100012BAWOSALOO                     
+12011100022IMANA                         
+12011100032TUWA TUWA                     
+12011100042KAFO KAFO                     
+12011100052BAWASAWA                      
+12011100062PULAU BOGI                    
+12011100072HALAMONA                      
+12011100082HANOFA                        
+12011100092LAHAWA                        
+12011100102HINAKO                        
+12011100112SINENE'ETO                    
+12011100122BALOWONDRATE                  
+12011100132HILIMBERUA                    
+12011100142LAHUSA                        
+12011100152SISOBAOHO                     
+12011100162OMBOLATA                      
+12011100172TETEHOSI                      
+12011100182TOGIM BOGI                    
+12011100192BAWOZAMAIWO                   
+12011100202SITOLU BANUA                  
+12011100212LOLOGUNDRE                    
+12011100222IRAONOGAILA                   
+12011100232SISOBANDRAO                   
+12011100242FADORO                        
+12011100252TUGALAGAWU                    
+12011100262SIROMBU                       
+12011100272TOGIDEU                       
+12011100282TUGALA                        
+12011100292ORAHILI                       
+12011100302GUNUNG CAHAYA                 
+12011100312TIGA SERANGKAI                
+12011100322ONO WAEMBO                    
+12011100332ONO LIMBU                     
+12011100342HILIADULO                     
+12011100352SISOBAMBOWO                   
+12011100362LOLOWAU                       
+1201120000 MANDREHE                      
+12011200012ONOLIMBURAYA                  
+12011200022ONONAMOLO III                 
+12011200032SISOBAOHO                     
+12011200042IRAONOGEBA                    
+12011200052LOLOHIA                       
+12011200062SIMAEASI                      
+12011200072BUKIT TINGGI                  
+12011200082LAWELU                        
+12011200092SALOO                         
+12011200102HILISANGAWOLA                 
+12011200112HILIBADALU                    
+12011200122LOLOGOLU                      
+12011200132TUWUNA                        
+12011200142BALODANO                      
+12011200152TUHEMBERUA                    
+12011200162LOLOZIRUGI                    
+12011200172LAKHENE                       
+12011200182HILIWALO'O I                  
+12011200192SIANAA                        
+12011200202FADORO                        
+12011200212IRAONO GAMBO                  
+12011200222TUHO OWO                      
+12011200232FADOROBAHILI                  
+12011200242FADORO SIFULU BANUA           
+12011200252SISOBAMBOWO                   
+12011200262HILIDAURA                     
+12011200272SISARAHILI I                  
+12011200282SISARAHILI II                 
+12011200292LASARA BAGAWU                 
+12011200302SISOBANDRAO                   
+12011200312MAZINGO                       
+12011200322ONOLIMBUYOU                   
+12011200332LASARA FAGA                   
+12011200342ONOZALUKHU YOU                
+12011200352ORAHILI BADALU                
+12011200362TUMORI                        
+12011200372LASARA BAENE                  
+12011200382TETEHOSI                      
+12011200392DOLI DOLI                     
+12011200402HIAMBANUA                     
+12011200412HAYO                          
+12011200422HILI MAYO                     
+12011200432ZUZUNDRAO                     
+12011200442HILIWALOO II                  
+12011200452GUNUNG BARU                   
+12011200462HILI SOROMI                   
+12011200472SIDUA HILI                    
+12011200482SITOLU BANUA FADORO           
+12011200492HILIFADOLO                    
+12011200502LASARA BAHILI                 
+12011200512HILI WAELE                    
+12011200522SITOLU EWALI                  
+12011200532HAREFA                        
+12011200542SIHAREO                       
+12011200552LOLOMBOLI                     
+12011200562ONONAMOLO I                   
+12011200572HILIMBARUZO                   
+12011200582TARAHOSO                      
+12011200592ONONAMOLO II                  
+12011200602TARAHA                        
+12011200612LAHAGU                        
+12011200622HILIMBOWO                     
+1201130000 HILIDUHO                      
+12011300012ONONAMOLO TALAFU              
+12011300022HILIGADU BOTOMUZOI            
+12011300032LASARA BOTOMUZOI              
+12011300042HILIWAELE I                   
+12011300052HILIHAMBAWA                   
+12011300062SIMANAERE BOTOMUZOI           
+12011300072HILIWAELE II                  
+12011300082FADORO HUNOGOA                
+12011300092LOLOFAOSO LALAI               
+12011300102FULOLO LALAI                  
+12011300112LAWA LAWA                     
+12011300122LALAI I / II                  
+12011300132LOLOWUA                       
+12011300142DAHADANO BOTOMBAWO            
+12011300152TUHEGAFOA I                   
+12011300162BALOHILI BOTOMUZOI            
+12011300172HILIMBOWO BOTOMUZOI           
+12011300182FULOLO BOTOMUZOI              
+12011300192LOLOANAA                      
+12011300202ONOZITOLI DULU                
+12011300212SINARIKHI                     
+12011300222OMBOLATA SALOO                
+12011300232SISOBALAURU                   
+12011300242TUHEGAFOA II                  
+12011300252ONONAMOLO I BOTOMUZOI         
+12011300262FADORO LAURU                  
+12011300272D I M A                       
+12011300282MAZINGO TANOSEO               
+12011300292SISOBAHILI I TANOSEO          
+12011300302HILIGODU TANOSEO              
+12011300312HILIDUHO                      
+12011300322LASARA TANOSEO                
+12011300332FADORO YOU                    
+12011300342NAZALOU ALOOA                 
+12011300352FADORO HILIMBOWO              
+12011300362ORAHILI TANOSEO               
+12011300372NIKOOTANO DAO                 
+12011300382TARAKHAINI                    
+12011300392IRAONO LASE                   
+1201140000 GUNUNGSITOLI                  
+12011400012LOLOLAKHA                     
+12011400022ONOZITOLI TABALOHO            
+12011400032SIHAREO I                     
+12011400042MAZINGO TABALOHO              
+12011400052ONONAMOLO I LOT               
+12011400062LUAHA LARAGA                  
+12011400072LOLOMBOLI                     
+12011400082OMBOLATA SIMANARI             
+12011400092HILIGARA                      
+12011400102LOLOFAOSO TABALOHO            
+12011400112FAEKHU                        
+12011400122FODO                          
+12011400132MIGA                          
+12011400142SIHAREO II                    
+12011400152MADULA                        
+12011400162HILIGODU OMBOLATA             
+12011400172ORAHILI TUMORI                
+12011400182GADA                          
+12011400192TETEHOSI                      
+12011400202SISOBAHILI II TANOSEO         
+12011400212ONONAMALO II LOT              
+12011400222ONOZIKHO                      
+12011400232HILINAKHE                     
+12011400242TUMORI                        
+12011400252TUMORI BALOHILI               
+12011400262DAHANA                        
+12011400272SIFALAETE TABALOHO            
+12011400282SISOBAHILI TABALOHO           
+12011400291ILIR                          
+12011400301MUDIK                         
+12011400311LASARA BAHILI                 
+12011400322DAHADANO GAWU GAWU            
+12011400332SIHAREO SIWAHILI              
+12011400342LOLOMOYO TUHEMBERUA           
+12011400352SIMANDRAOLO                   
+12011400362LELEWONU NIKOOTANO            
+12011400372HILINA'A                      
+12011400381BOYO                          
+12011400391PASAR GUNUNG SITOLI           
+12011400401ONOZITOLI SIFOROASI           
+12011400411SAOMBO                        
+12011400421IRAONOGEBA                    
+12011400432TUHEMBERUA ULU                
+12011400442FADORO LASARA                 
+12011400452ONOWAEMBO                     
+12011400462SISARAHILI SISAMBALAHE        
+12011400472MADOLAOLI                     
+12011400482HILIMBARUZO                   
+12011400492SIFALAETE ULU                 
+12011400502SAEWE                         
+12011400512OMBOLATA ULU                  
+12011400522MOAWO                         
+12011400532HILI HAO                      
+12011400542SISARAHILI GAMO               
+12011400552BAWADESOLO                    
+12011400562LOLOLAWA                      
+12011400572HILIGODU ULU                  
+12011400582HILIMBOWO OLORA               
+12011400592ONOZITOLI OLORA               
+12011400602OLORA                         
+1201150000 TUHEMBERUA                    
+12011500022TETEHOSI MAZIAYA              
+12011500032UMBUBALODANO                  
+12011500052NAZALOU                       
+12011500062LASARA SOWU                   
+12011500072LOLOANAA / LOLOMOYO           
+12011500082GAWU GAWU BOUSO               
+12011500092AFIA                          
+12011500102TETEHOSI AFIA                 
+12011500112HAMBAWA                       
+12011500122TELUK BELUKAR                 
+12011500132HILIMBOSI                     
+12011500142BOTOLAKHA                     
+12011500152HILISALOO                     
+12011500162SIOFA BANUA                   
+12011500172LAAYA                         
+12011500182ALOOA                         
+12011500192LADARA                        
+12011500202BANUAGEA                      
+12011500212FULOLO SALOO                  
+12011500312OMBOLATA SAWO                 
+12011500322SANAWUYU                      
+12011500332SILIMA BANUA                  
+12011500342FINO                          
+12011500352ONOZITOLI SAWO                
+12011500402SIFAHANDRO                    
+12011500412SISARAHILI TELUK SIABANG      
+12011500422LASARA SAWO                   
+12011500432SAWO                          
+12011500442HILIDURUWA                    
+12011500452TELUK BENGKUANG               
+12011500462SERIWAU                       
+1201151000 LOTU                          
+12011510012HILIDUNDRA                    
+12011510022BAHO                          
+12011510032FADORO FULOLO                 
+12011510042MAZIAYA                       
+12011510052BATOM BAWO                    
+12011510062LOMBUZAUA                     
+12011510072HILIGODU                      
+12011510082LAWIRA II                     
+12011510092LAWIRA SATUA                  
+12011510102LOLOFAOSO                     
+12011510112LAWIRA I                      
+12011510122LOLOMBOLI                     
+12011510132DAHADANO                      
+12011510142HILIGEO AFIA                  
+1201160000 ALASA                         
+12011600012BITAYA                        
+12011600022HUMENE SIHENEASI              
+12011600032FABALIWA OYO                  
+12011600042BOTONA AI                     
+12011600052TEOLO                         
+12011600062SIWAWO                        
+12011600072GUNUNG TUA                    
+12011600082LAHEMBOHO                     
+12011600092HILISEBUA SIWALUBANUA         
+12011600102ONONAZARA                     
+12011600112ANAOMA                        
+12011600122BANUA SIBOHOU III             
+12011600132DAHANA TUGALAOYO              
+12011600142HAREFANAESE                   
+12011600152FULOLO                        
+12011600162HILIGAWONI                    
+12011600172ONONAMOLO TUMULA              
+12011600202BANUA SIBOHOU I               
+12011600212OMBOLATA                      
+12011600222BANUA SIBOHOU II              
+12011600232DAHANA ALASA                  
+12011600242ONONAMOLO ALASA               
+12011600252MAZINGO                       
+12011600262HILINA'A                      
+12011600272LOLOANA'A                     
+12011600282HILIMBOWO KARE                
+12011600292LAEHUWA                       
+1201161000 NAMOHALU ESIWA                
+12011610012ORAHILI                       
+12011610022SISARAHILI                    
+12011610032HILIBANUA                     
+12011610042SISOBAHILI                    
+12011610052ESIWA                         
+12011610062TUHENAKHE I                   
+12011610072NAMOHALU                      
+12011610082MEAFU                         
+12011610092BERUA                         
+12011610102LASARA                        
+12011610112DAHANA HILIGODU               
+12011610122BANUA SIBOHOU                 
+1201170000 LAHEWA                        
+12011700012IRAONO LASE                   
+12011700022HOLI                          
+12011700082LAOWOWAGA                     
+12011700092LUKHU LASE                    
+12011700122TETEHOSI SOROWI               
+12011700132SIFAOROASI                    
+12011700142HILIZUKHU                     
+12011700152ONOZALUKHU                    
+12011700162HILINA'A                      
+12011700172HILI GODUHOYA                 
+12011700182SITOLU BANUA                  
+12011700192HILI HATI                     
+12011700202FADORO SITOLU HILI            
+12011700212MARAFALA                      
+12011700222HILI GAWOLO                   
+12011700232BALEFADORO TUHO               
+12011700242OMBOLATA                      
+12011700252LAHEWA                        
+12011700262AFIA                          
+12011700272MOAWO                         
+12011700282LASARA                        
+12011700292SIHENEASI                     
+12011700302FADORO HILIMBOWO              
+12011700312FADORO HILIHAMBAWA            
+12011700322TUGALA LAURU                  
+12011700332MUZOI                         
+12011700342TEFAO                         
+1201171000 AFULU                         
+12011710012SIFAOROASI                    
+12011710022FAEKHUNAA                     
+12011710032LAURU FADORO                  
+12011710042AFULU                         
+12011710052LAURU I AFULU                 
+12011710062OMBOLATA AFULU                
+12011710072SISOBAHILI                    
+12011710082LAURU LAHEWA                  
+12011710092HAREWAKHE                     

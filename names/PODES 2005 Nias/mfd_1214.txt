@@ -1,0 +1,221 @@
+12140100162BAWO LAWINDA                  
+12140100172LUAHA IDANO PONO              
+12140100182SIBARANUN                     
+12140100192HAYO                          
+12140100202BINTUANG                      
+12140100212BAWO SITORA                   
+12140100222FUGE                          
+12140100232SIGESE                        
+12140100242GONDIA                        
+12140100252MAUFA                         
+12140100262GOBO                          
+12140100272SILINA                        
+12140100282SIFITU EWALI                  
+12140100292RAPA RAPA                     
+12140100302SINAURU                       
+12140100312SIOFA EWALI                   
+12140100322SIMALUAYA                     
+12140100332SILIMAEWALI                   
+12140100342SIDUAEWALI                    
+12140100351PASAR PULAU TELLO             
+12140100362BARUYU LASARA                 
+12140100372HILIOTALUA                    
+12140100382HILI AMO DULA                 
+12140100392BAWODOBARA                    
+12140100402BAWO AMA HELATO               
+12140100412LOBOI                         
+12140100422BAWO AMASIO                   
+12140100432BALOGIA                       
+12140100442HILIGEHO SOGAWU               
+12140100452LASONDE                       
+12140100462SILIMA BANUA MARIT            
+12140100472SIOFA BANUA LORANG            
+12140100482ZIABIANG                      
+12140100492LIMO BIANG                    
+12140100502MEMONG                        
+12140100512KOTO                          
+12140100522BALE BALE                     
+12140100532TELUK LIMO                    
+12140100542WAWA                          
+12140100552MAHANG LABARA                 
+12140100562ADAM                          
+12140100572BAIS                          
+12140100582LAMBAK                        
+12140100592LABUAN RIMA                   
+12140100602LABUAN HIYU                   
+12140100612LABUAN BAJAU                  
+1214011000 HIBALA                        
+12140110012DURU I/II                     
+12140110022TUWASO                        
+12140110032HILIORO MAO                   
+12140110042EHO                           
+12140110052SIALEMA                       
+12140110062BAWONIFAOSO                   
+12140110072HILIANOM BASELA               
+12140110082LUMBUI MELAYU                 
+12140110092HILIORO DUA TEBOLO            
+12140110102TEBOLO MELAYU                 
+12140110112BAWOANALITA SAERU             
+12140110122SAERU MELAYU                  
+12140110132SIFAURUASI                    
+12140110142MAKOLE                        
+12140110152BALUTA                        
+1214020000 TELUK DALAM                   
+12140200012BOTOHILITANO                  
+12140200022LAGUNDRI                      
+12140200032HILIAMAETANIHA                
+12140200042BAWONAHANO                    
+12140200052HILIZIHONO                    
+12140200062HILIGEHO                      
+12140200072HILITOBARA                    
+12140200081PASAR T. DALAM                
+12140200092BAWONIFAOSO                   
+12140200102BAWOZAUA                      
+12140200112HILIGANOWO                    
+12140200122HILIMAETALUO                  
+12140200132HILISATARO                    
+12140200142HILINAMONIHA                  
+12140200152BAWOGANOWO                    
+12140200162HILIALAWA                     
+12140200172HILINDRASONIHA                
+12140200182HILIZALOOTANO                 
+12140200192BAWOLAHUSA                    
+12140200202HILIFALAGO                    
+12140200212HILIFARONO                    
+12140200222BAWODOBARA                    
+12140200232BAWOLOWALANI                  
+12140200242HILISONDREKHA                 
+12140200252HILISAOOTONIHA                
+12140200262HILIMONDREGERAYA              
+12140200272BAWOMATALUO                   
+12140200282ORAHILI FAU                   
+12140200292HILIMAENAMOLO                 
+12140200302HILISIMAETANO                 
+12140200312LAHUSA                        
+12140200322BAWOGOSALI                    
+12140200332ONOHONDRO                     
+12140200342SIWALAWA                      
+12140200352HILINAMOZAUA                  
+12140200362HILINAWALO FAU                
+12140200372HILINAWALO MAZINGO            
+12140200382HILIZOROILAWA                 
+12140200392LAWINDRA                      
+1214030000 AMANDRAYA                     
+12140300012HILIHORU                      
+12140300022HILIMBULAWA                   
+12140300032SIFAOROASI                    
+12140300042HILIFALAWU                    
+12140300052HILITOTAO                     
+12140300062HILIORUDUA                    
+12140300072HILIAMAUZULA                  
+12140300082SISOBAHILI                    
+12140300092TUINDRAO                      
+12140300102SISOBAMBOWO                   
+12140300112HILIMBOWO                     
+12140300122LOLOZARIA                     
+12140300132LOLOMOYO                      
+12140300142HILIFADOLO                    
+12140300152ORAHILI EHO                   
+12140300162RAMBA - RAMBA                 
+12140300172SISARAHILI SUSUA              
+12140300182FONDRAKORAYA                  
+1214040000 LAHUSA                        
+12140400012GOLAMBANUA                    
+12140400022HILISIMAETANO                 
+12140400032BAWOZIHONO                    
+12140400042BAWOOTALUA                    
+12140400052FETEZOU                       
+12140400062BAWOLATO                      
+12140400072SIWALUBANUA                   
+12140400082SILIMABANUA                   
+12140400092LAHUSA                        
+12140400102HILIDOHONA                    
+12140400112HILIHOYA                      
+12140400122HILISAOOTO                    
+12140400132ULUIDANODUO                   
+12140400142SIHAREO                       
+12140400152GOLAMBANUA II                 
+1214050000 GOMO                          
+12140500012HILIMBOE                      
+12140500022HILIORAHUA                    
+12140500032SIFALAGO SUSUA                
+12140500042HILIMBOHO                     
+12140500052ORAHILI SUSUA                 
+12140500062LUAHONDROITO                  
+12140500072TETEGAWAAI                    
+12140500082HILIANAA SUSUA                
+12140500092HILIMBARUZO                   
+12140500102AMANDRAYA                     
+12140500112BALOHILI GOMO                 
+12140500122SIFALAGO GOMO                 
+12140500132LAWA-LAWALUO GOMO             
+12140500142SIFAROASI GOMO                
+12140500152ORAHILI GOMO                  
+12140500162LAHUSA                        
+12140500172HILIMBOWO                     
+12140500182LOLOSONI                      
+12140500192HILIANAA GOMO                 
+12140500202LAWA-LAWALUO IDANOTAE         
+12140500212DOLI-DOLI                     
+12140500222SIRAHIA                       
+12140500232UMBU                          
+12140500242FONEDANU                      
+12140500252LAWINDRA                      
+12140500262LOLOZUKHU                     
+12140500272HILIUSO                       
+12140500282BALOHILI MOLA                 
+12140500292SIFAOROASI MOLA               
+12140500302TOBUALO                       
+12140500312AMBUKHA                       
+1214090000 LOLOMATUA                     
+12140900012SAMBULU                       
+12140900022ORAHILI ULUNOYO               
+12140900032HILIWAEBU                     
+12140900042AMOROSA                       
+12140900052LOLOANAA                      
+12140900062TUHEMBERUA                    
+12140900072MARAO                         
+12140900082HILIUSO                       
+12140900092HILI OTALUA                   
+12140900102HILISANGOWOLA                 
+12140900112LAWA-LAWA LUO                 
+12140900122TESIKHORI                     
+12140900132KOENDRAFO                     
+12140900142SISARAHILI HURUNA             
+12140900152SIFALAGO                      
+12140900162TUNDUMBAHO                    
+12140900172LALIMANAWA                    
+12140900182SIFOROASI                     
+1214100000 LOLOWAU                       
+12141000011TUHEGAFOA                     
+12141000021SISARAHILI EKHOLO             
+12141000031AMURI                         
+12141000041HILIMBOWO                     
+12141000051SIMANDAOLO                    
+12141000061HILINAMAZIHONO                
+12141000072BAWOSALOO DAO DAO             
+12141000081TOGIZITA                      
+12141000091TUHO'OWO                      
+12141000101LOLOHOWA                      
+12141000111LOLOWAU                       
+12141000121HILI FADOLO                   
+12141000131SOLEDUA                       
+12141000141SISARAHILI OYO                
+12141000151LOLOMOYO                      
+12141000161LOLOFAOSO                     
+12141000171BAWOSALOO SIWALAWA            
+12141000181MANAWADANO                    
+12141000191SISOBAHILI SIWALAWA           
+12141000201TALIO                         
+12141000212SISOBAHILI HURUNA             
+12141000221LAUSO                         
+12141000231BAWOHOSI                      
+12141000241HILIZOLIGA                    
+12141000251OLAYAMA                       
+12141000261SOROMAASI                     
+12141000271HILIADULO                     
+12141000281MALUO                         
+12141000292UMBUASI                       
+12141000302HELEFANIKHA                   
+12141000312FADORO EWO                    
+12141000322EHOSAKHOZI                    

@@ -1,0 +1,21 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Traviss Cassidy
+
+The following files are licensed under CC BY 4.0:
+
+  - crosswalks/manual_podes/
+  - crosswalks/manual_moha/
+  - the author's revisions and extensions in crosswalks/district_proliferation/
+  - crosswalks/bps_kemendagri/manual_cross_kb_vlg.xlsx
+  - crosswalks/bps_kemendagri/corrections_cross_kb_vlg.xlsx
+  - output/output_csv.zip
+
+You may share and adapt these files for any purpose, provided you give
+appropriate credit by citing the papers listed in README.txt.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Not covered: crosswalks, name files and census tables published by BPS,
+Kemendagri or the World Bank (see README.txt, sections 5 and 8). Their
+copyright remains with the original sources.
