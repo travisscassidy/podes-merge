@@ -2,6 +2,7 @@ PODES Merge
 ===========
 
 https://github.com/travisscassidy/podes-merge
+DOI (all versions): https://doi.org/10.5281/zenodo.24172713
 
 Do-files and crosswalks that merge villages across the Indonesian village
 census (Potensi Desa, PODES) waves of 2005, 2008, 2011, 2014, 2018, 2019,
