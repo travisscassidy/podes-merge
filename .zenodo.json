@@ -1,0 +1,24 @@
+{
+  "title": "PODES Merge",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Cassidy, Traviss",
+      "affiliation": "University of Alabama"
+    }
+  ],
+  "description": "Stata do-files and crosswalks that merge villages across the Indonesian village census (Potensi Desa, PODES) waves of 2005, 2008, 2011, 2014, 2018, 2019, 2020, 2021, 2024 and 2025, and with the village population counts of the 2010 population census (SP2010). The package also links BPS village codes to the village codes of the Ministry of Home Affairs (Kemendagri), which are used in Dana Desa and village population data. Raw PODES data are not included; see README.txt.",
+  "license": "MIT",
+  "keywords": [
+    "Indonesia",
+    "PODES",
+    "village census",
+    "crosswalk",
+    "village codes",
+    "Stata"
+  ],
+  "references": [
+    "Cassidy, Traviss, Nurina Merdikawati, and Tejaswi Velayudhan. 2026. \"Decentralization and Development: Evidence from Indonesia's Village Law.\" Working paper.",
+    "Cassidy, Traviss. 2025. \"Revenue Persistence and Public Service Delivery.\" Economic Journal, 135 (670): 2017-2053."
+  ]
+}
